@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a 3rd year CS student<br>🤝 I’m looking for help with software dev<br>🌱 I’m currently learning CS<br>⚡ Fun fact: I tried to code
+🔭 I’m currently a 3rd year CS student<br>🤝 I’m looking for help with software dev<br>🌱 I’m currently learning CS<br>⚡ Fun fact: I try to code
 
 
 ## 🌐 Socials:
