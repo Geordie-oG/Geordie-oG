@@ -1,24 +1,11 @@
 Readme
 
-
-  <p><img src="https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png" alt="Web-developer"></p>
-<h2 id="welcome-to-my-world">Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h2>
 <h3 id="hello">Hello! 🔭 I’m currently a 3rd year CS student<br>🤝 I’m looking for help with software dev<br>🌱 I’m currently learning CS<br>⚡ Fun fact: I try to code.</h3>
 <h3 id="portfolio-httpsbrdhananigithubio">Portfolio: <a href="https://brdhanani.github.io">https://brdhanani.github.io</a></h3>
 <a href="https://twitter.com/dhanani_brijesh">
   <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
 </a>
-<a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-</a>
-<a href="https://www.facebook.com/people/Brijesh-Dhanani/100010798357963">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">
-</a>
-<a href="https://www.instagram.com/singer_brijesh_dhanani">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
-</a>
-<a href="https://youtu.be/X_zgw9GojSc">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg">
+<a href="https://www.linkedin.com/in/ye-htet-aung-george-4ab4742a7/">
 </a>
 <br>
 <br>
