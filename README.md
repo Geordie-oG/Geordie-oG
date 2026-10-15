@@ -1,22 +1,30 @@
-Hi I'm 3rd year computer science student focusing on Software Dev
-I tried to code :)
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/YHA.george.14/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/geord_stagram/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ye-htet-aung-george-4ab4742a7/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Georgewiththevlogs) 
+# George Aung
+### Computer Science Student | Software Development
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Geordie-oG&theme=panda&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Geordie-oG&theme=panda&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Geordie-oG&theme=panda&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+I'm George (Ye Htet Aung), a computer science student interested in building practical web applications. My current focus is backend development, clear APIs, and user-friendly experiences.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Geordie-oG&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## Current Focus
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Geordie-oG&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- **TiewSafe:** working with my senior-project team on an activity-planning experience for famous destinations and landscapes in Thailand. My planned responsibility is backend development.
+- Strengthening my skills in **Next.js, TypeScript, and Java** as we prepare for the next stage of the project.
+- Building experience through team projects, testing, and clear technical documentation.
 
----
-[![](https://komarev.com/ghpvc/?username=Geordie-oG&icon=0&color=0)](https://visitcount.itsvg.in)
+## Selected Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Project | Overview | Technologies |
+| --- | --- | --- |
+| [TiewSafe](https://github.com/Geordie-oG/SP1_demo) | Senior-project proposal prototype for exploring Thai destinations, activities, and sample suitability recommendations on mobile and desktop. Uses demonstration data, not a live prediction service. | HTML, CSS, JavaScript |
+| [Kanban Board & Dashboard](https://github.com/Geordie-oG/Project1_Kanban-Board) | Team project combining task management with a progress dashboard, responsive layouts, and browser-based persistence. | React, Vite, Recharts, Local Storage |
+
+[Explore the Kanban demo](https://geordie-og.github.io/Project1_Kanban-Board/)
+
+## Technologies
+
+**Web:** HTML, CSS, JavaScript, React  
+**Current learning focus:** Next.js, TypeScript, Java  
+**Other coursework:** Python, C#, .NET, MongoDB, MySQL  
+**Tools:** Git, GitHub, VS Code, Figma
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ye-htet-aung-george-4ab4742a7/) · [Instagram](https://www.instagram.com/geord_stagram/) · [YouTube](https://www.youtube.com/@Georgewiththevlogs)
