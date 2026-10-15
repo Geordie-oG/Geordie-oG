@@ -21,14 +21,7 @@ Computer Science Student | Ye Htet Aung | `@Geordie-oG`
 
 I'm George, a computer science student interested in building practical web applications. I enjoy connecting clear interfaces with well-structured backend logic, and growing through team projects, testing, and documentation.
 
-```typescript
-const george = {
-  focus: ["Backend development", "Clear APIs", "User-friendly experiences"],
-  currentProject: "TiewSafe",
-  learning: ["Next.js", "TypeScript", "Java"],
-  approach: "Build, test, learn, improve",
-};
-```
+
 
 ## `02 / featured_projects`
 
